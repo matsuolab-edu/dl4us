@@ -1,5 +1,5 @@
 atari-py==0.1.1
-bleach==2.1.1
+bleach==3.3.0
 boto==2.48.0
 boto3==1.4.8
 botocore==1.8.8
