@@ -31,7 +31,7 @@ jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core==4.4.0
-jupyterlab==0.30.2
+jupyterlab==1.2.21
 jupyterlab-launcher==0.6.0
 Keras==2.1.2
 Markdown==2.6.9
