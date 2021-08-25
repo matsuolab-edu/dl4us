@@ -77,7 +77,7 @@ six==1.11.0
 sklearn==0.0
 smart-open==1.5.4
 tabulate==0.8.2
-tensorflow-gpu==1.4.0
+tensorflow-gpu==2.5.1
 tensorflow-tensorboard==0.4.0rc3
 terminado==0.8.1
 testpath==0.3.1
