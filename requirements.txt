@@ -16,7 +16,7 @@ gensim==3.1.0
 graphviz==0.8.1
 gym==0.9.4
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 invoke==0.22.1
 ipykernel==4.6.1
