@@ -43,7 +43,7 @@ nbformat==4.4.0
 networkx==2.1
 nltk==3.3
 notebook==5.2.2
-numpy==1.13.3
+numpy==1.22.0
 opencv-python==3.3.0.10
 pandas==0.22.0
 pandocfilters==1.4.2
