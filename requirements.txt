@@ -38,7 +38,7 @@ Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.1.0
 mistune==0.8.3
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbformat==4.4.0
 networkx==2.1
 nltk==3.3
