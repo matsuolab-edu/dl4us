@@ -4,7 +4,7 @@ boto==2.48.0
 boto3==1.4.8
 botocore==1.8.8
 bz2file==0.98
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.1.2
