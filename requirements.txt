@@ -52,7 +52,7 @@ pexpect==4.3.0
 pickleshare==0.7.4
 Pillow==5.0.0
 prompt-toolkit==1.0.15
-protobuf==3.5.0.post1
+protobuf==3.18.3
 ptyprocess==0.5.2
 pydot==1.2.4
 pydot-ng==1.0.0
