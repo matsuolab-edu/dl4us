@@ -37,7 +37,7 @@ Keras==2.1.2
 Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.1.0
-mistune==0.8.3
+mistune==2.0.3
 nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.1
